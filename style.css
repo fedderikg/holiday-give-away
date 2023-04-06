@@ -1,0 +1,42 @@
+body{
+	padding-top: 0px !important;
+}
+
+.main-image{
+	background-position: center !important;
+}
+
+.destination{
+	text-align: center;
+}
+
+.Testimonials{
+
+	background-color: #18202D;
+
+}
+
+.Testimonials-paragraphs {
+
+	color :white;
+}
+
+.Testimonials-name {
+	color: 	#CDB599FF;
+}
+
+.Testimonial-header{
+
+	color: 	#CDB599FF;
+
+}
+
+
+footer{
+	background-color: #18202D;
+
+}
+
+.footer-text {
+	color: white;
+}
